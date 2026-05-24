@@ -1,8 +1,8 @@
-# 📊 Gym Membership Churn Analysis Dashboard
+# 📊 Analyzing Churn Risk in Subscription-Based Services”
 
 ## 📌 Project Overview
 
-The Gym Membership Churn Analysis Dashboard is a Power BI project developed to analyze customer subscription behavior and identify churn patterns in a gym membership system. The project helps businesses understand customer engagement, monitor inactive users, and improve retention strategies through interactive visualizations and KPI tracking.
+The Analyzing Churn Risk in Subscription-Based Services” Dashboard is a Power BI project developed to analyze customer subscription behavior and identify churn patterns in a gym membership system. The project helps businesses understand customer engagement, monitor inactive users, and improve retention strategies through interactive visualizations and KPI tracking.
 
 The project uses SQL and CSV datasets integrated into Power BI to create a modern and professional analytics dashboard.
 
