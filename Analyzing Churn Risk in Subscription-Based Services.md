@@ -286,7 +286,9 @@ This dashboard helps gym businesses:
 - Make data-driven decisions
 
 ---
-
+## Video Link:-
+https://drive.google.com/file/d/1YStfEQPCAKmjwfl45ZZoyk6vh-OaCPl6/view?usp=sharing
+---
 # 📷 Dashboard Features
 
 ✅ Interactive Filters  
